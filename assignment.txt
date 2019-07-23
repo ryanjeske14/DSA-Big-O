@@ -1,0 +1,22 @@
+1. 
+a) Constant: O(1)
+b) Linear: O(n)
+
+2. Constant: O(1)
+
+3. Polynomial: O(n^k)
+
+4. Linear: O(n)
+
+5. Linear: O(n)
+
+6. Polynomial: O(n^k)
+
+7. The function pushes the sum of the last two numbers in the array into the array.  This function is of linear complexity.
+
+8. Logarithmic: O(log(n))
+
+9. Constant: O(1)
+
+10.  The function tests whether a number is prime, and returns true if it's prime. It's linear, but only needs to test a maximum of half the size of the input.
+
